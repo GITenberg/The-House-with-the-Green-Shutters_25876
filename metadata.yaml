@@ -1,0 +1,53 @@
+_repo: The-House-with-the-Green-Shutters_25876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, George Douglas
+    birthdate: 1869
+    deathdate: 1902
+    gutenberg_agent_id: '31633'
+    url: http://www.gutenberg.org/2009/agents/31633
+    wikipedia: http://en.wikipedia.org/wiki/George_Douglas_Brown
+description: "The House with the Green Shutters is a novel by the Scottish writer\
+  \ George Douglas Brown, first published in 1901 by John MacQueen. Set in mid-19th\
+  \ century Ayrshire, in the fictitious town of Barbie which is based on his native\
+  \ Ochiltree, it consciously violates the conventions of the sentimental kailyard\
+  \ school, and is sometimes quoted as an influence on the Scottish Renaissance.\n\
+  The novel describes the struggles of a proud and taciturn carrier, John Gourlay,\
+  \ against the spiteful comments and petty machinations of the envious and idle villagers\
+  \ of Barbie (the \"bodies\"). The sudden return after fifteen years' absence of\
+  \ the ambitious merchant, James Wilson, son of a mole-catcher, leads to commercial\
+  \ competition against which Gourlay has trouble responding.\nAfter the arrival of\
+  \ the railway, Gourlay's position worsens and he begins to invest his hopes and\
+  \ money in his neurotic son, John, who cannot live up to his expectations. His scatterbrained\
+  \ wife and daughter live in terror of his ferocious temper and take refuge in novelettes\
+  \ and daydreaming.\nThe symbol of the family's prosperity is their expensive house\
+  \ in the middle of the town:\n\nBoth in appearance and position the house was a\
+  \ worthy counterpart of its owner. It was a substantial two-storey dwelling, planted\
+  \ firm and gawcey on a little natural terrace that projected a considerable distance\
+  \ into the Square. At the foot of the steep little bank shelving to the terrace\
+  \ ran a stone wall, of no great height, and the iron railings it uplifted were no\
+  \ higher than the sward within. Thus the whole house was bare to the view from the\
+  \ ground up, nothing in front to screen its admirable qualities. From each corner,\
+  \ behind, flanking walls went out to the right and left, and hid the yard and the\
+  \ granaries. In front of these walls the dwelling seemed to thrust itself out for\
+  \ notice.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25876'
+  wikidata: Q7740720
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+title: The House with the Green Shutters
+url: http://www.gutenberg.org/ebooks/25876
+wikipedia:
+- https://en.wikipedia.org/wiki/The_House_with_the_Green_Shutters
