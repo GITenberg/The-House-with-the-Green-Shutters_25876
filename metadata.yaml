@@ -35,6 +35,8 @@ description: "The House with the Green Shutters is a novel by the Scottish write
   \ behind, flanking walls went out to the right and left, and hid the yard and the\
   \ granaries. In front of these walls the dwelling seemed to thrust itself out for\
   \ notice.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25876#The-House-with-the-Green-Shutters
 gutenberg_issued: '2008-06-22'
 gutenberg_type: Text
 identifiers:
